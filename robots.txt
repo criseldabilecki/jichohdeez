@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeingiechi.tml.ink/sitemap.xml
